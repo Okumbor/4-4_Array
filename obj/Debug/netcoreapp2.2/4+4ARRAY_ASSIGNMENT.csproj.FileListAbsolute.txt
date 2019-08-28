@@ -1,0 +1,11 @@
+C:\Users\okumb\source\repos\4+4ARRAY_ASSIGNMENT\4+4ARRAY_ASSIGNMENT\bin\Debug\netcoreapp2.2\4+4ARRAY_ASSIGNMENT.deps.json
+C:\Users\okumb\source\repos\4+4ARRAY_ASSIGNMENT\4+4ARRAY_ASSIGNMENT\bin\Debug\netcoreapp2.2\4+4ARRAY_ASSIGNMENT.runtimeconfig.json
+C:\Users\okumb\source\repos\4+4ARRAY_ASSIGNMENT\4+4ARRAY_ASSIGNMENT\bin\Debug\netcoreapp2.2\4+4ARRAY_ASSIGNMENT.runtimeconfig.dev.json
+C:\Users\okumb\source\repos\4+4ARRAY_ASSIGNMENT\4+4ARRAY_ASSIGNMENT\bin\Debug\netcoreapp2.2\4+4ARRAY_ASSIGNMENT.dll
+C:\Users\okumb\source\repos\4+4ARRAY_ASSIGNMENT\4+4ARRAY_ASSIGNMENT\bin\Debug\netcoreapp2.2\4+4ARRAY_ASSIGNMENT.pdb
+C:\Users\okumb\source\repos\4+4ARRAY_ASSIGNMENT\4+4ARRAY_ASSIGNMENT\obj\Debug\netcoreapp2.2\4+4ARRAY_ASSIGNMENT.csprojAssemblyReference.cache
+C:\Users\okumb\source\repos\4+4ARRAY_ASSIGNMENT\4+4ARRAY_ASSIGNMENT\obj\Debug\netcoreapp2.2\4+4ARRAY_ASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\okumb\source\repos\4+4ARRAY_ASSIGNMENT\4+4ARRAY_ASSIGNMENT\obj\Debug\netcoreapp2.2\4+4ARRAY_ASSIGNMENT.AssemblyInfoInputs.cache
+C:\Users\okumb\source\repos\4+4ARRAY_ASSIGNMENT\4+4ARRAY_ASSIGNMENT\obj\Debug\netcoreapp2.2\4+4ARRAY_ASSIGNMENT.AssemblyInfo.cs
+C:\Users\okumb\source\repos\4+4ARRAY_ASSIGNMENT\4+4ARRAY_ASSIGNMENT\obj\Debug\netcoreapp2.2\4+4ARRAY_ASSIGNMENT.dll
+C:\Users\okumb\source\repos\4+4ARRAY_ASSIGNMENT\4+4ARRAY_ASSIGNMENT\obj\Debug\netcoreapp2.2\4+4ARRAY_ASSIGNMENT.pdb
